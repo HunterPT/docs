@@ -107,7 +107,7 @@ title: Commands
     - **Usage:** `!remove <numbers>`
     - **Alias:** `rm`
 ---
-- **`!clear`** - Clears the whole queue.
+- **`!clearqueue`** - Clears the whole queue.
     - **Other Usage:** `!clear <@user>` - Clears all songs requested by the mentioned user.
     - **Alias:** `cl`
 ---
